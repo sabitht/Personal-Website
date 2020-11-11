@@ -128,7 +128,7 @@ section .title::after{
     display: inline-block;
 text-decoration: none;
     color: #fff;
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
     transition: color 0.3s ease;
