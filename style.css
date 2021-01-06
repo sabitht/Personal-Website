@@ -450,7 +450,6 @@ text-decoration: none;
 .teams .title::after{
    
     content: "Few of my Write up's";
-    margin-top: 10px;
 }
 .teams .carousel .card{
     background: #222;
