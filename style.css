@@ -399,6 +399,7 @@ text-decoration: none;
     width: 70%;
 }
 .blog .title::after{
+     margin-top: 10px;
     content: "Few of my Write up's";
 }
 
