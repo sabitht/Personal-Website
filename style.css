@@ -398,7 +398,7 @@ text-decoration: none;
 .skills-content .right .mysql::before{
     width: 70%;
 }
-.teams .title::after{
+.blog .title::after{
     content: "Few of my Write up's";
 }
 
