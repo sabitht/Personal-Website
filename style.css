@@ -399,76 +399,7 @@ text-decoration: none;
 }
 .teams .title::after{
     content: "Few of my Write up's";
-}
-.teams .blog-content .column{
-    width: calc(50% - 30px);
-}
-.teams .blog-content .left .text{
-    font-size: 20px;
-    font-weight: 600;
-    margin-bottom: 10px;
-}
-.teams .blog-content .left p{
-    text-align: justify;
-}
-.teams .blog-content .left a{
-    display: inline-block;
-    background: crimson;
-    color: #fff;
-    font-size: 18px;
-    font-weight: 500;
-    padding: 8px 16px;
-    margin-top: 20px;
-    border-radius: 6px;
-    border: 2px solid crimson;
-    transition: all 0.3s ease;
-}
-.teams .blog-content .left a:hover{
-    color: crimson;
-    background: none;
-}
-.teams .blog-content .right .bars{
-    margin-bottom: 15px;
-}
-.teams .blog-content .right .info{
-    display: flex;
-    margin-bottom: 5px;
-    align-items: center;
-    justify-content: space-between;
-}
-.teams .blog-content .right span{
-    font-weight: 500;
-    font-size: 18px;
-}
-.teams .blog-content .right .line{
-    height: 5px;
-    width: 100%;
-    background: lightgrey;
-    position: relative;
-}
-.teams .blog-content.right .line::before{
-    content: "";
-    position: absolute;
-    height: 100%;
-    left: 0;
-    top: 0;
-    background: crimson;
-}
-.teams .blog-content .right .html::before{
-    width: 90%;
-}
-.teams .blog-content .right .css::before{
-    width: 60%;
-}
-.teams .blog-content .right .js::before{
-    width: 80%;
-}
-.teams .blog-content .right .php::before{
-    width: 50%;
-}
-.teams .blog-content .right .mysql::before{
-    width: 70%;
-}
+
 
 .single-blog{
     box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.2);
