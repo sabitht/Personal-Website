@@ -398,21 +398,21 @@ text-decoration: none;
 .skills-content .right .mysql::before{
     width: 70%;
 }
-.blog .title::after{
+.teams .title::after{
     content: "Few of my Write up's";
 }
-.blog .blog-content .column{
+.teams .blog-content .column{
     width: calc(50% - 30px);
 }
-.blog .blog-content .left .text{
+.teams .blog-content .left .text{
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 10px;
 }
-.blog .blog-content .left p{
+.teams .blog-content .left p{
     text-align: justify;
 }
-.blog .blog-content .left a{
+.teams .blog-content .left a{
     display: inline-block;
     background: crimson;
     color: #fff;
@@ -424,30 +424,30 @@ text-decoration: none;
     border: 2px solid crimson;
     transition: all 0.3s ease;
 }
-.blog .blog-content .left a:hover{
+.teams .blog-content .left a:hover{
     color: crimson;
     background: none;
 }
-.blog .blog-content .right .bars{
+.teams .blog-content .right .bars{
     margin-bottom: 15px;
 }
-.blog .blog-content .right .info{
+.teams .blog-content .right .info{
     display: flex;
     margin-bottom: 5px;
     align-items: center;
     justify-content: space-between;
 }
-.blog .blog-content .right span{
+.teams .blog-content .right span{
     font-weight: 500;
     font-size: 18px;
 }
-.blog .blog-content .right .line{
+.teams .blog-content .right .line{
     height: 5px;
     width: 100%;
     background: lightgrey;
     position: relative;
 }
-.blog .blog-content.right .line::before{
+.teams .blog-content.right .line::before{
     content: "";
     position: absolute;
     height: 100%;
@@ -455,19 +455,19 @@ text-decoration: none;
     top: 0;
     background: crimson;
 }
-.blog .blog-content .right .html::before{
+.teams .blog-content .right .html::before{
     width: 90%;
 }
-.blog .blog-content .right .css::before{
+.teams .blog-content .right .css::before{
     width: 60%;
 }
-.blog .blog-content .right .js::before{
+.teams .blog-content .right .js::before{
     width: 80%;
 }
-.blog .blog-content .right .php::before{
+.teams .blog-content .right .php::before{
     width: 50%;
 }
-.blog .blog-content .right .mysql::before{
+.teams .blog-content .right .mysql::before{
     width: 70%;
 }
 
